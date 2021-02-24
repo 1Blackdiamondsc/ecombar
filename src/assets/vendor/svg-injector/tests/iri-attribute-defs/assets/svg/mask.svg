@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
-  <defs>
-    <mask id="MaskTest" x="0" y="0" width="100" height="100" >
-      <rect x="0" y="0" width="64" height="32" style="stroke:none; fill:white"/>
-    </mask>
-  </defs>
-
-  <rect x="1" y="1" width="64" height="64" stroke="none" fill="plum"/>
-  <rect x="1" y="1" width="64" height="64" stroke="none" fill="gray" mask="url(#MaskTest)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><defs><mask id="MaskTest" width="100" height="100" x="0" y="0"><rect width="64" height="32" x="0" y="0" style="stroke:none;fill:#fff"/></mask></defs><rect width="64" height="64" x="1" y="1" fill="plum" stroke="none"/><rect width="64" height="64" x="1" y="1" fill="gray" stroke="none" mask="url(#MaskTest)"/></svg>
